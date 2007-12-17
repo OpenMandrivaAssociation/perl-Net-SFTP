@@ -16,7 +16,6 @@ BuildRequires:	perl-devel
 %endif
 BuildRequires:	perl-Net-SSH-Perl
 BuildArch:	noarch
-BuildRoot:	%_tmppath/%name-%{version}
 
 %description
 This is Net::SFTP, a module implementing a client for the Secure
